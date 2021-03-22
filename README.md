@@ -1,5 +1,5 @@
 # Factory-TrickShot
-My first Pygame game (without the use of a game engine) I build during the first year of my software engineer studies.
+My first Pygame game I build during the first year of my software engineer studies (without the use of a game engine).
 
 The game is a puzzle like game with shooting mechanics, there are 3 weapons each with their own mechanics and balistics (the projectile move diffrently).
 
